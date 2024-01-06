@@ -50,8 +50,8 @@
 - https://www.algoseek.com/
 - https://alpaca.markets/docs/market-data/
 - https://polygon.io/
-- можно вытащить из tinkoff/alor api
-- можно вытащить из metatrader
+- tinkoff/alor api
+- metatrader
 - https://www.moex.com/ru/algopack
 
 ### Listings
