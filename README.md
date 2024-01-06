@@ -22,6 +22,7 @@
 - [https://3commas.io/](https://3commas.io/ru)
 - https://moontrader.com/
 - https://finandy.com/en - очень понравился
+- https://cryptorg.net/
 - CScalp: https://fsr-develop.ru/
 - https://www.metascalp.io/
 - https://www.qscalp.ru/
