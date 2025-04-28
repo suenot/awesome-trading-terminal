@@ -26,7 +26,9 @@
 - CScalp: https://fsr-develop.ru/
 - https://www.metascalp.io/
 - https://www.qscalp.ru/
-- https://www.alorbroker.ru/trading/trading-terminals/astras open source от алор брокера на angular (хороший выбор, так как использует rxjs для запросов)
+- Astras: open source от алор брокера на angular (хороший выбор, так как использует rxjs для запросов)
+  - https://www.alorbroker.ru/software/astras
+  - https://github.com/alor-broker/Astras-Trading-UI
 - https://www.xtick.ru/
 - https://octobot.online/
 - https://alertatron.com/
