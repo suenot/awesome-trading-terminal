@@ -3,6 +3,7 @@
 ### Trading terminals
 - https://ru.tradingview.com/
     - https://www.tradingview.com/pine-script-docs/en/v5/index.html большое количество ботов написано на pinescript, их можно интегрировать в нашу систему
+- https://www.gemini.com/activetrader
 - https://www.tinkoff.ru/invest/web-terminal/
 - https://www.lean.io/
 - https://www.quantconnect.com/
@@ -60,3 +61,6 @@
 - https://www.coingecko.com/
 - https://cryptorank.io/
 - https://coinmarketcap.com/
+
+# FIX API:
+- https://axon.trade/
