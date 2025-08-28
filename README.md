@@ -41,7 +41,7 @@
 - https://octopustrade.io/app/
 - https://tradermake.money/
 - https://trade-radar.ru/
-- https://www.wealthcharts.com/
+- https://www.wealthcharts.com/ scalper terminal, options terminal
 
 ### No code (visual programming for trading)
 - https://www.haasonline.com/
