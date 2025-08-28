@@ -2,7 +2,7 @@
 
 ### Trading terminals
 - https://ru.tradingview.com/
-    - https://www.tradingview.com/pine-script-docs/en/v5/index.html большое количество ботов написано на pinescript, их можно интегрировать в нашу систему
+    - https://www.tradingview.com/pine-script-docs/en/v5/index.html
 - https://www.gemini.com/activetrader
 - https://www.tinkoff.ru/invest/web-terminal/
 - https://www.lean.io/
@@ -41,6 +41,7 @@
 - https://octopustrade.io/app/
 - https://tradermake.money/
 - https://trade-radar.ru/
+- https://www.wealthcharts.com/
 
 ### No code (visual programming for trading)
 - https://www.haasonline.com/
