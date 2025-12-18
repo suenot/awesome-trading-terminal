@@ -1,4 +1,4 @@
-# Awesome trading terminals
+<img width="1622" height="947" alt="image" src="https://github.com/user-attachments/assets/f6b4ebc9-b34a-49c5-b0a2-15a1914faec7" /># Awesome trading terminals
 
 ### Trading terminals
 - https://ru.tradingview.com/
@@ -42,6 +42,7 @@
 - https://tradermake.money/
 - https://trade-radar.ru/
 - https://www.wealthcharts.com/ scalper terminal, options terminal
+- https://foxtrade.pro/ bots platform
 
 ### No code (visual programming for trading)
 - https://www.haasonline.com/
@@ -57,6 +58,7 @@
 - tinkoff/alor api
 - metatrader
 - https://www.moex.com/ru/algopack
+- https://foxtrade.pro/
 
 ### Listings
 - https://www.coingecko.com/
