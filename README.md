@@ -1,5 +1,3 @@
-<img width="1622" height="947" alt="image" src="https://github.com/user-attachments/assets/f6b4ebc9-b34a-49c5-b0a2-15a1914faec7" /># Awesome trading terminals
-
 ### Trading terminals
 - https://ru.tradingview.com/
     - https://www.tradingview.com/pine-script-docs/en/v5/index.html
